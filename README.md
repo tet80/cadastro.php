@@ -32,8 +32,3 @@ HTML5 / CSS3 (para o front-end do formulário)
 
 (Opcional) MySQL ou SQLite, caso o sistema salve os dados em banco de dados
 
-
-
-tado conforme necessidade.
-
-Se quiser, posso gerar um modelo completo do código PHP e HTML correspondente a esse README — quer que eu monte o código também?
